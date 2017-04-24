@@ -2,6 +2,7 @@
 
 ### Command Line Parameters
 
+```
 usage: ./gen.exe -w [width] -h [height] -s [spread] -p [passes] -r [red] -g [green] -b [blue]
 
 modifiers:
@@ -19,6 +20,7 @@ modifiers:
 	-g	starting RGB green value
 
 	-b	starting RGB blue value
+```
 
 ### Examples
 
